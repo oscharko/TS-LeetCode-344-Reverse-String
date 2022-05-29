@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../index.ts"],
+  "sourcesContent": ["let s = [\"h\",\"e\",\"l\",\"l\",\"o\"]\n\nconst reverseString = function(s: string[]): string[] {\n    return s.reverse();\n};\n\nconsole.log(reverseString(s))"],
+  "mappings": "AAAA,IAAI,IAAI,CAAC,KAAI,KAAI,KAAI,KAAI;AAEzB,MAAM,gBAAgB,SAAS,IAAuB;AAClD,SAAO,GAAE;AAAA;AAGb,QAAQ,IAAI,cAAc;",
+  "names": []
+}
